@@ -2,4 +2,8 @@ This version of my project
 
 2 nd version 
 gui
+<<<<<<< HEAD
 sfagg
+=======
+
+>>>>>>> 3eeca6d45e8ef5bb1fd72248a26ca56265104010
